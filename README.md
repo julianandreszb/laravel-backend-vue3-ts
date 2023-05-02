@@ -26,7 +26,7 @@ Start the development server with Laravel Sail (requires [docker](https://www.do
 ./vendor/bin/sail up
 ```
 
-Run laravel application using docker 100% on windows
+Run laravel application using 100% docker - Windows
 ```
 https://medium.com/dev-genius/setting-up-an-existing-laravel-application-100-with-docker-on-windows-870176679819
 ```
